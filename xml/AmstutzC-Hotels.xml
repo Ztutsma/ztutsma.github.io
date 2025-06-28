@@ -1,1 +1,126 @@
 
+<?xml version="1.0" encoding="utf-8"?>
+<Hotels xmlns="https://ztutsma.github.io/xml/AmstutzC-Hotels.xsd">
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E. 7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Hilton Phoenix Airport</Name>
+		<Phone>480-894-1600</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>2435</Number>
+			<Street>S. 47th St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85034</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.2">
+		<Name>Holiday Inn &amp; Suites Phoenix Airport</Name>
+		<Phone>602-244-8800</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>1515</Number>
+			<Street>N. 44th St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85008</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.0">
+		<Name>Radisson Hotel Phoenix Airport</Name>
+		<Phone>602-661-3160</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>427</Number>
+			<Street>N 44th St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85008</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.">
+		<Name>Hilton San Francisco Airport Bayfront</Name>
+		<Phone>650-340-8500</Phone>
+		<Address NearestAirport="San Francisco International">
+			<Number>600</Number>
+			<Street>Airport Blvd.</Street>
+			<City>Burilingame</City>
+			<State>CA</State>
+			<Zip>94010</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>BridgePoint Inn Daly City</Name>
+		<Phone>415-467-5600</Phone>
+		<Address NearestAirport="San Francisco International">
+			<Number>3255</Number>
+			<Street>Geneva Ave</Street>
+			<City>Daly City</City>
+			<State>CA</State>
+			<Zip>94014</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="3.3">
+		<Name>Inn at Bayshore</Name>
+		<Phone>650-342-3273</Phone>
+		<Address NearestAirport="San Francisco International">
+			<Number>140</Number>
+			<Street>N Bayshore Blvd</Street>
+			<City>San Mateo</City>
+			<State>CA</State>
+			<Zip>94401</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="3.8">
+		<Name>Five Towns Inn</Name>
+		<Phone>516-371-2600</Phone>
+		<Address NearestAirport="JFK International">
+			<Number>655</Number>
+			<Street>Rockaway Turnpike</Street>
+			<City>Lawrence</City>
+			<State>NY</State>
+			<Zip>11559</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>JFK Plaza Hotel</Name>
+		<Phone>718-327-4000</Phone>
+		<Address NearestAirport="JFK International">
+			<Number>1074</Number>
+			<Street>Beach 22nd St</Street>
+			<City>Far Rockaway</City>
+			<State>NY</State>
+			<Zip>11691</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.5">
+		<Name>Hyatt Regency Orlando International Airport</Name>
+		<Phone>407-825-1234</Phone>
+		<Address NearestAirport="Orlando International">
+			<Number>9300</Number>
+			<Street>Jeff Fuqua Blvd</Street>
+			<City>Orlando</City>
+			<State>FL</State>
+			<Zip>32827</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.1">
+		<Name>Cambria Hotel Orlando Airport</Name>
+		<Phone>407-652-6284</Phone>
+		<Address NearestAirport="Orlando International">
+			<Number>7986</Number>
+			<Street>Conway Rd</Street>
+			<City>Orlando</City>
+			<State>FL</State>
+			<Zip>32812</Zip>
+		</Address>
+	</Hotel>
+</Hotels>
