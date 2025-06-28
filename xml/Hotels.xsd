@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xs:schema id="AmstutzC-Hotels"
-    targetNamespace="https://ztutsma.github.io/xml/AmstutzC-Hotels.xsd"
+    targetNamespace="https://ztutsma.github.io/xml/Hotels.xsd"
     elementFormDefault="qualified"
-    xmlns="https://ztutsma.github.io/xml/AmstutzC-Hotels.xsd"
-    xmlns:mstns="https://ztutsma.github.io/xml/AmstutzC-Hotels.xsd"
+    xmlns="https://ztutsma.github.io/xml/Hotels.xsd"
+    xmlns:mstns="https://ztutsma.github.io/xml/Hotels.xsd"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
 >
 	<xs:element name="Hotels">
